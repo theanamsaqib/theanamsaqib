@@ -5,9 +5,9 @@ An Undergraduate CSE Student 😬
 🌱 I’m currently learning: Advanced DSA and Cloud Integration  <br/>
 👩‍💻 Strong interest in: Full-stack Web Development & Secure Intelligent Systems <br/>
 👯 I’m looking to collaborate on: AI-powered system & cybersecurity projects <br/>
-🤝 I’m looking for help with: Model deployment & scalable architectures 
-📫 How to reach me: {www.linkedin.com/in/theanamsaqib} 
-😄 Pronouns: She/Her 
+🤝 I’m looking for help with: Model deployment & scalable architectures <br/>
+📫 How to reach me: {www.linkedin.com/in/theanamsaqib} <br/>
+😄 Pronouns: She/Her <br/>
 
 
 # 💻 Tech Stack:
