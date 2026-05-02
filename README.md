@@ -1,12 +1,13 @@
 ## 👋 Hi, I'm Anam
 An Undergraduate CSE Student 😬
 
-🔭 I’m currently working on: AI/ML with focus on Cybersecurity, NLP & CVIP <br/>
-🌱 I’m currently learning: Advanced DSA and Cloud Integration  <br/>
+🔭 I’m currently working on: Backend systems & data-driven tools with AI/ML <br/>
+🌱 I’m currently learning: Advanced DSA, system design basics & cloud deployment  <br/>
 👩‍💻 Strong interest in: Artificial Intelligence-Machine Learning & Secure Intelligent Systems <br/>
-👯 I’m looking to collaborate on: AI-powered system & cybersecurity projects <br/>
-🤝 I’m looking for help with: Model deployment & scalable architectures <br/>
+👯 I’m looking to collaborate on: AI-powered system, Developer tools, backend projects, or data-centric systems <br/>
+🤝 I’m looking for help with: Scaling systems & production-ready architecture <br/>
 📫 How to reach me: {www.linkedin.com/in/theanamsaqib} <br/>
+💻 Check me out on : {https://leetcode.com/theanamsaqib} <br/>
 😄 Pronouns: She/Her <br/>
 
 
