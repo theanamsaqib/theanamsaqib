@@ -7,7 +7,7 @@ An Undergraduate CSE Student 😬
 👯 I’m looking to collaborate on: AI-powered system, Developer tools, backend projects, or data-centric systems <br/>
 🤝 I’m looking for help with: Scaling systems & production-ready architecture <br/>
 📫 How to reach me: {www.linkedin.com/in/theanamsaqib} <br/>
-💻 Check me out on : {https://leetcode.com/theanamsaqib} <br/>
+💻 Check me out on : {https://hashnode.com/@theanamsaqib} <br/>
 😄 Pronouns: She/Her <br/>
 
 
