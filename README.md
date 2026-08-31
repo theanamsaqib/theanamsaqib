@@ -1,17 +1,16 @@
-## 👋 Hi, I'm Anam
-An Undergraduate CSE Student 😬
+<p align="center">
+  <a href="https://github.com/theanamsaqib">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Anam" alt="Hello! I&#39;m Anam" />
+  </a>
+</p>
 
-🔭 I’m currently working on: Backend systems & data-driven tools with AI/ML <br/>
-🌱 I’m currently learning: Advanced DSA, system design basics & cloud deployment  <br/>
-👩‍💻 Strong interest in: Artificial Intelligence-Machine Learning & Secure Intelligent Systems <br/>
-👯 I’m looking to collaborate on: AI-powered system, Developer tools, backend projects, or data-centric systems <br/>
-🤝 I’m looking for help with: Scaling systems & production-ready architecture <br/>
-😄 Pronouns: She/Her <br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=610&height=44&lines=Turning%20my%20crazy%20ideas%20into%20real%20codes" alt="Typing headlines" />
+</p>
 
+### 🎭 About Me
 
-
-
-
+I once debugged in a party ;)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/theanamsaqib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamsaqib1711@gmail.com) 
