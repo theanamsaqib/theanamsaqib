@@ -1,4 +1,4 @@
-<img width="1536" height="723" alt="image" src="https://github.com/user-attachments/assets/56f2273f-1835-4712-8da7-bf9889ab841f" /><p align="center">
+
   <a href="https://github.com/theanamsaqib">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Anam" alt="Hello! I&#39;m Anam" />
   </a>
@@ -21,7 +21,7 @@ I once debugged in a party ;)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=theanamsaqib&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Activity Graph](./github-contribution-grid-snake-dark.svg)
+
 
 
 
